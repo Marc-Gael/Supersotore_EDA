@@ -38,8 +38,8 @@ Le projet est structuré en plusieurs étapes clés :
      plt.show()
      ```
     
-    ![Boxplot_colonne_profit](Boxplot_colonne_profit.png)
-    
+    ![Boxplot_colonne_profit](Assets/Boxplot_colonne_profit.png)
+   
 
 ### 2. **Ventes et Profits par Région**
    - **Graphique** : Un barplot pour comparer les ventes et les profits par région.
@@ -80,7 +80,7 @@ Le projet est structuré en plusieurs étapes clés :
      plt.show()
      ```
 
-    ![Boxplot_colonne_profit](Distribution_des_discounts_dans_le_dataset.png)
+    ![Boxplot_colonne_profit](Assets\Distribution_des_discounts_dans_le_dataset.png)
     
 
 ### 5. **Clustering des Clients avec K-means**
