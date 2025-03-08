@@ -79,7 +79,7 @@ Le projet est structuré en plusieurs étapes clés :
      plt.show()
      ```
 
-    ![Boxplot_colonne_profit](Distribution_des_discounts_dans_le_dataset.png)
+   ![Top Paying Roles](Assets/Distribution_des_discounts_dans_le_dataset.png)
     
 
 ### 5. **Clustering des Clients avec K-means**
