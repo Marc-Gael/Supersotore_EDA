@@ -37,8 +37,7 @@ Le projet est structuré en plusieurs étapes clés :
      plt.xlabel("Profit")
      plt.show()
      ```
-    
-    ![Boxplot_colonne_profit]([Boxplot_colonne_profit.png](https://github.com/Marc-Gael/Supersotore_EDA/blob/main/Assets/Boxplot_colonne_profit.png))
+   ![Boxplot_colonne_profit]([Boxplot_colonne_profit.png](https://github.com/Marc-Gael/Supersotore_EDA/blob/main/Assets/Boxplot_colonne_profit.png))
     
 
 ### 2. **Ventes et Profits par Région**
