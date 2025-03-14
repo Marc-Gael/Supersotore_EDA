@@ -2,7 +2,7 @@
 
 ## Description du Projet
 
-Ce projet consiste en une analyse exploratoire de données (EDA) sur un jeu de données provenant d'un supermarché fictif appelé "SampleSuperstore". L'objectif principal est d'explorer les données pour en extraire des insights pertinents, identifier des tendances, et proposer des recommandations stratégiques pour améliorer les performances de l'entreprise.
+Ce projet consiste en une analyse exploratoire de données (EDA) sur un jeu de données provenant d'un supermarché appelé "SampleSuperstore". L'objectif principal est d'explorer les données pour en extraire des insights pertinents, identifier des tendances, et proposer des recommandations stratégiques pour améliorer les performances de l'entreprise.
 
 Le jeu de données contient des informations sur les ventes, les profits, les remises, les catégories de produits, les régions, les segments de clients, et bien d'autres variables. L'analyse est réalisée en utilisant Python avec des bibliothèques telles que Pandas, Seaborn, Matplotlib, et Scikit-learn pour le clustering.
 
